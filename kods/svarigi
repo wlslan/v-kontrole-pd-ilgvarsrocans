@@ -1,0 +1,8 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	cout<<"Reti kas dzīvē ir svarīgāks par versiju kontroli";
+	return 0;
+}
