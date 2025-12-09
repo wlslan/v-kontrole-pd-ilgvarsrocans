@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-	cout<<"Reti kas dzīvē ir svarīgāks par versiju kontroli";
+	cout<<"Dzīve nekādā veidā nav iedomājama bez git";
 	return 0;
 }
